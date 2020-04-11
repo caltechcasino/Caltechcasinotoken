@@ -1,17 +1,14 @@
-EOS.IO Technical White Paper v2
-March 16, 2018
-
-Abstract: The EOS.IO software introduces a new blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. This is achieved by creating an operating system-like construct upon which applications can be built. The software provides accounts, authentication, databases, asynchronous communication, and the scheduling of applications across many of CPU cores or clusters. The resulting technology is a blockchain architecture that may ultimately scale to millions of transactions per second, eliminates user fees, and allows for quick and easy deployment and maintenance of decentralized applications, in the context of a governed blockchain.
-
-PLEASE NOTE: CRYPTOGRAPHIC TOKENS REFERRED TO IN THIS WHITE PAPER REFER TO CRYPTOGRAPHIC TOKENS ON A LAUNCHED BLOCKCHAIN THAT ADOPTS THE EOS.IO SOFTWARE. THEY DO NOT REFER TO THE ERC-20 COMPATIBLE TOKENS BEING DISTRIBUTED ON THE ETHEREUM BLOCKCHAIN IN CONNECTION WITH THE EOS TOKEN DISTRIBUTION.
-
-Copyright © 2018 block.one
-
-Without permission, anyone may use, reproduce or distribute any material in this white paper for non-commercial and educational use (i.e., other than for a fee or for commercial purposes) provided that the original source and the applicable copyright notice are cited.
-
-DISCLAIMER: This EOS.IO Technical White Paper v2 is for information purposes only. block.one does not guarantee the accuracy of or the conclusions reached in this white paper, and this white paper is provided “as is”. block.one does not make and expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to: (i) warranties of merchantability, fitness for a particular purpose, suitability, usage, title or noninfringement; (ii) that the contents of this white paper are free from error; and (iii) that such contents will not infringe third-party rights. block.one and its affiliates shall have no liability for damages of any kind arising out of the use, reference to, or reliance on this white paper or any of the content contained herein, even if advised of the possibility of such damages. In no event will block.one or its affiliates be liable to any person or entity for any damages, losses, liabilities, costs or expenses of any kind, whether direct or indirect, consequential, compensatory, incidental, actual, exemplary, punitive or special for the use of, reference to, or reliance on this white paper or any of the content contained herein, including, without limitation, any loss of business, revenues, profits, data, use, goodwill or other intangible losses.
-
-Background
-Requirements for Blockchain Applications
-Support Millions of Users
-Free Usage
+![1](https://user-images.githubusercontent.com/63219289/79037181-0473ea00-7bf9-11ea-963f-3084e7b23c9c.png)
+![2](https://user-images.githubusercontent.com/63219289/79037184-076eda80-7bf9-11ea-88e4-cfce086b0aa1.png)
+![3](https://user-images.githubusercontent.com/63219289/79037186-09389e00-7bf9-11ea-8df9-c1594cd70e6c.png)
+![4](https://user-images.githubusercontent.com/63219289/79037188-0b026180-7bf9-11ea-8cf2-fdfe39468bba.png)
+![5](https://user-images.githubusercontent.com/63219289/79037191-0c338e80-7bf9-11ea-88a5-e0e2a371ec73.png)
+![6](https://user-images.githubusercontent.com/63219289/79037192-0f2e7f00-7bf9-11ea-99fc-6ac77e8b38e8.png)
+![7](https://user-images.githubusercontent.com/63219289/79037193-105fac00-7bf9-11ea-9c41-bd1deef7ebea.png)
+![8](https://user-images.githubusercontent.com/63219289/79037194-12296f80-7bf9-11ea-938c-e8186dae4cae.png)
+![9](https://user-images.githubusercontent.com/63219289/79037196-13f33300-7bf9-11ea-9b60-b56201f40027.png)
+![10](https://user-images.githubusercontent.com/63219289/79037197-16558d00-7bf9-11ea-9c1b-b9ba6bd07f33.png)
+![11](https://user-images.githubusercontent.com/63219289/79037200-18b7e700-7bf9-11ea-91dd-7a1394d20d0f.png)
+![12](https://user-images.githubusercontent.com/63219289/79037205-1a81aa80-7bf9-11ea-8afd-3295c2166764.png)
+![13](https://user-images.githubusercontent.com/63219289/79037207-1ce40480-7bf9-11ea-937e-39ca42127fd8.png)
+![14](https://user-images.githubusercontent.com/63219289/79037210-1eadc800-7bf9-11ea-842a-13037e14c750.png)
